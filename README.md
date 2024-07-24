@@ -2,11 +2,12 @@
 
 ## UNDER CONSTRUCTION! Task01 is ready. Task02 and Task03 will follow soon!
 
+## UNDER CONSTRUCTION
 <div style="background-color: #FFD700; padding: 10px; border-radius: 5px;">
-  <h2>UNDER CONSTRUCTION</h2>
   <p>Task 01 is ready.</p>
   <p>Task 02 and 03 will follow soon.</p>
 </div>
+
 
 ## General Infos
 
