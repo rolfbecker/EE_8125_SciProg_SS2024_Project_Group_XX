@@ -2,13 +2,6 @@
 
 ## UNDER CONSTRUCTION! Task01 is ready. Task02 and Task03 will follow soon!
 
-## UNDER CONSTRUCTION
-<div style="background-color: #FFD700; padding: 10px; border-radius: 5px;">
-  <p>Task 01 is ready.</p>
-  <p>Task 02 and 03 will follow soon.</p>
-</div>
-
-
 ## General Infos
 
 This small project with three exercises is part of the Scientific Programming Assignment in the summer semester of 2024. Each exercise will be graded for a maximum of 10 points.
