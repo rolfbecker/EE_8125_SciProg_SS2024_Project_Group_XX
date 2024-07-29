@@ -1,7 +1,5 @@
 # EE_8125_SciProg_SS2024_Project_Group_XX
 
-## UNDER CONSTRUCTION! Task01 is ready. Task02 and Task03 will follow soon!
-
 ## General Infos
 
 This small project with three exercises is part of the Scientific Programming Assignment in the summer semester of 2024. Each exercise will be graded for a maximum of 10 points.
@@ -32,7 +30,7 @@ This small project with three exercises is part of the Scientific Programming As
 
 [Task02](Task02/README.md)
 
-## Task 03: Spectral Irradiance, Quantum Efficiency and Spectral Response of PV Cells
+## Task 03: Your Own Exercise
  
 [Task03](Task03/README.md)
 
